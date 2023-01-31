@@ -8,3 +8,8 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> Nodejs
+/node_modules/
+/yarn-error.log
+###< Nodejs
